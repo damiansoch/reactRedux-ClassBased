@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(185, 149, 149);
+}
+
+.list-link {
+  cursor: pointer;
+}
+.list-link:hover {
+  background-color: aqua;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(185, 149, 149);
+}
+.list-link {
+  cursor: pointer;
+  &:hover {
+    background-color: aqua;
+  }
+}
